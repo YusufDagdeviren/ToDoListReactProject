@@ -16,21 +16,42 @@ Bu projede Props, Component, State ve Lifecycles gibi React konularıın pekişt
 
 ### Ana Ekran
 ![All Page](images/allpage.png)
+
+---
+
 ### Aktif Yapılacaklar
 ![Active Page](images/activepage.png)
+
+---
+
 ### Tamamlananlar
 ![Completed Page](images/completedpage.png)
+
+---
+
 ### Görev Silme işlemleri
 ![Delete Task](images/deletetask.png)
+
 ***Görev Silindikten Sonra***
+
 ![After Delete Task](images/afterdeletetask.png)
+
+---
+
 ### Tamamlanan Görevleri Silme
 ![Clear Completed](images/clear.png)
+
 ***Tamamlanan Görevleri Sildikten Sonra***
+
 ![After Clear](images/afterclear.png)
+
+---
+
 ### Tüm Görevleri Yapıldı Olarak İşaretleme
 ![All Inactive](images/allinactive.png)
+
 ***Tüm Görevleri Yapıldı Yaptıktan Sonra***
+
 ![After All Inactive](images/afterallactive.png)
 
 **Not:**
